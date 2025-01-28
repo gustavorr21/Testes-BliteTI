@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 //TODO: Codigo foi criado dentro do visual studio, se rodar o mesmo dentro 
 // do visual, funciona corretamente, porem ao testar o mesmo codigo no codebyte
 // o mesmo nao funciona, caso queiram apenas copiar esse codigo e testar no visual studio
+// caso queiram ver criei um reposotorio com os dois projetos, de json Cleaning e o JWT
+// https://github.com/gustavorr21/Testes-BliteTI
 public class Program
 {
     public static Dictionary<string, object> CleanJsonObject(Dictionary<string, object> json)
